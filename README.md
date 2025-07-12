@@ -9,7 +9,7 @@
 ### ✨ About Me
 
 - 🎯 I’m currently working on:
-  - Completing my Master’s in Information Technology and Management at UT Dallas, with a focus on data engineering and AI integration  
+  - Completed my Master’s in Information Technology and Management at UT Dallas, with a focus on data engineering and AI integration  
   - Exploring ways to support HR teams through an internal tool that identifies employees on the bench and matches them to suitable roles, followed by automated outreach — aiming to save time and optimize internal resource allocation
 
 - 🤖 I’ve recently begun my journey into AI:
