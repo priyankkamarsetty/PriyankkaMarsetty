@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws">
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium">
   <img src="https://img.shields.io/badge/Machine Learning--FF6F00?style=flat-square&logo=tensorflow">
-  <img src="https://img.shields.io/badge/-AEI-150458?style=flat-square&logo=pandas">
+  <img src="https://img.shields.io/badge/-AI-150458?style=flat-square&logo=pandas">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 </p>
 
